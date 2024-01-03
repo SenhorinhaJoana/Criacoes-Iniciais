@@ -1,0 +1,15 @@
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/exercíco1.csproj.AssemblyReference.cache
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/exercíco1.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/exercíco1.AssemblyInfoInputs.cache
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/exercíco1.AssemblyInfo.cs
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/exercíco1.csproj.CoreCompileInputs.cache
+/home/runner/Criacoes-Iniciais/bin/Debug/netcoreapp6.0/exercíco1
+/home/runner/Criacoes-Iniciais/bin/Debug/netcoreapp6.0/exercíco1.deps.json
+/home/runner/Criacoes-Iniciais/bin/Debug/netcoreapp6.0/exercíco1.runtimeconfig.json
+/home/runner/Criacoes-Iniciais/bin/Debug/netcoreapp6.0/exercíco1.dll
+/home/runner/Criacoes-Iniciais/bin/Debug/netcoreapp6.0/exercíco1.pdb
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/exercíco1.dll
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/refint/exercíco1.dll
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/exercíco1.pdb
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/exercíco1.genruntimeconfig.cache
+/home/runner/Criacoes-Iniciais/obj/Debug/netcoreapp6.0/ref/exercíco1.dll
